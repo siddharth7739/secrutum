@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708815279489",
+    "project_id": "securatum-siddharth",
+    "storage_bucket": "securatum-siddharth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708815279489:android:56c0eea4dd0702df370480",
+        "android_client_info": {
+          "package_name": "com.example.securatum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708815279489-1plo44f8ojebco528h1941ig0j9l2jll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIvDNK-JbZrbStCUX11CrIBxHM7qu6AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708815279489-1plo44f8ojebco528h1941ig0j9l2jll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
